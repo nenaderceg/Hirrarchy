@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="6" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Suite Crazy Shit" duration-ms="22" started-at="2018-04-07T05:32:42Z" finished-at="2018-04-07T05:32:42Z">
+    <groups>
+    </groups>
+    <test name="TestNG Test" duration-ms="22" started-at="2018-04-07T05:32:42Z" finished-at="2018-04-07T05:32:42Z">
+      <class name="com.play.TestNGAnnotations1">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.play.TestNGAnnotations1@1324409e]" name="beforeSuite" is-config="true" duration-ms="8" started-at="2018-04-07T05:32:42Z" finished-at="2018-04-07T05:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.play.TestNGAnnotations2@2c6a3f77]" name="beforeSuite" is-config="true" duration-ms="0" started-at="2018-04-07T05:32:42Z" finished-at="2018-04-07T05:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.play.TestNGAnnotations2@2c6a3f77]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-04-07T05:32:42Z" finished-at="2018-04-07T05:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.play.TestNGAnnotations1@1324409e]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-04-07T05:32:42Z" finished-at="2018-04-07T05:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.play.TestNGAnnotations1@1324409e]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-04-07T05:32:42Z" finished-at="2018-04-07T05:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.play.TestNGAnnotations1@1324409e]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-04-07T05:32:42Z" finished-at="2018-04-07T05:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.play.TestNGAnnotations1@1324409e]" name="test3" duration-ms="1" started-at="2018-04-07T05:32:42Z" finished-at="2018-04-07T05:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.play.TestNGAnnotations1@1324409e]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-04-07T05:32:42Z" finished-at="2018-04-07T05:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.play.TestNGAnnotations1@1324409e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-04-07T05:32:42Z" finished-at="2018-04-07T05:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.play.TestNGAnnotations1@1324409e]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-04-07T05:32:42Z" finished-at="2018-04-07T05:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.play.TestNGAnnotations2@2c6a3f77]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-04-07T05:32:42Z" finished-at="2018-04-07T05:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.play.TestNGAnnotations1@1324409e]" name="afterSuite" is-config="true" duration-ms="0" started-at="2018-04-07T05:32:42Z" finished-at="2018-04-07T05:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.play.TestNGAnnotations2@2c6a3f77]" name="afterSuite" is-config="true" duration-ms="0" started-at="2018-04-07T05:32:42Z" finished-at="2018-04-07T05:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.play.TestNGAnnotations1 -->
+      <class name="com.play.TestNGAnnotations2">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.play.TestNGAnnotations2@2c6a3f77]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-04-07T05:32:42Z" finished-at="2018-04-07T05:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.play.TestNGAnnotations2@2c6a3f77]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-04-07T05:32:42Z" finished-at="2018-04-07T05:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.play.TestNGAnnotations2@2c6a3f77]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-04-07T05:32:42Z" finished-at="2018-04-07T05:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.play.TestNGAnnotations2@2c6a3f77]" name="test2" duration-ms="0" started-at="2018-04-07T05:32:42Z" finished-at="2018-04-07T05:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.play.TestNGAnnotations2@2c6a3f77]" name="afterClass" is-config="true" duration-ms="1" started-at="2018-04-07T05:32:42Z" finished-at="2018-04-07T05:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.play.TestNGAnnotations2 -->
+    </test> <!-- TestNG Test -->
+  </suite> <!-- Test Suite Crazy Shit -->
+</testng-results>
